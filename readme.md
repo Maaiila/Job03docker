@@ -6,5 +6,5 @@ recherche de l'image supermario
 
 ---
 ## docker recuperer img
-![terminal docker](images/recuperersupermario.png)
+![docker pull supermario](images/recuperersupermario.png)
 récupération de l'image supermario
