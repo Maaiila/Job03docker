@@ -27,3 +27,11 @@ Essai 2
 démarrer lejeu  
 
 ---
+
+## jeu 
+![docker jeu](images/1.png)
+![docker jeu](images/2.png)
+![docker jeu](images/3.png)
+
+---
+
