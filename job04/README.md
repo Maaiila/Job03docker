@@ -18,4 +18,11 @@ Création du container
 
 ---
 
+## stopper le container
+![capture d'écran](images/stopcontainer.png)
+Stopper le container
+
+---
+
+
 
