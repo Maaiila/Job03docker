@@ -13,6 +13,9 @@ RUN apk add --no-cache \
 # Définir le répertoire de travail
 WORKDIR /usr/share/nginx/html
 
+# Copier le fichier index.html dans le conteneur
+COPY index.html /var/www/html/
+
 # Copier les fichiers du projet
 COPY index.html .
 COPY save.php .

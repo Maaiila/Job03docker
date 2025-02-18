@@ -5,3 +5,9 @@
 voici la création des fichiers
 
 ---
+
+## lancement du jeu tic tac toe 
+![capture d'écran](images/lancerTictactoe.png)
+Lancement du jeu
+
+---
